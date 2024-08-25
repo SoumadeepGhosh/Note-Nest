@@ -17,13 +17,12 @@ cd Note-Nest
 ```
 Now install the dependencies
 ```shell
-cd Note-Nest
-yarn or npm install
+npm install
+```
 
 We are almost done, Now just start the development server.
 
 ```shell
-cd Note-Nest
-yarn or npm start
+npm start
 ```
 Done! Now open localhost:5173 in your browser.
