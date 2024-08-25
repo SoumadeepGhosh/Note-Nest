@@ -9,25 +9,22 @@
 - [Nodejs](https://nodejs.org/en/download)
 - [React](https://react.dev/)
 
-Both should be installed and make sure mongodb is running.
+Node should be installed 
 ### Installation
-git clone https://github.com/SoumadeepGhosh/
-cd CHATTY-Live-Chat
+git clone https://github.com/SoumadeepGhosh/Note-Nest.git
+cd Note-Nest
 ```
 
 
 Now install the dependencies
 ```shell
-cd server
-yarn or npm 
-cd ..
-cd public
-yarn
-```
+cd Note-Nest
+yarn or npm install
+
 We are almost done, Now just start the development server.
 
 ```shell
-cd Keeper
+cd Note-Nest
 yarn or npm start
 ```
-Done! Now open localhost:3000 in your browser.
+Done! Now open localhost:5173 in your browser.
