@@ -11,11 +11,10 @@
 
 Node should be installed 
 ### Installation
+```shell
 git clone https://github.com/SoumadeepGhosh/Note-Nest.git
 cd Note-Nest
 ```
-
-
 Now install the dependencies
 ```shell
 cd Note-Nest
